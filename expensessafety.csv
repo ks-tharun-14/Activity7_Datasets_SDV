@@ -1,0 +1,142 @@
+UA_Name,Housing,Cost of Living,Safety
+Adelaide,6.3095,4.692,7.926
+Albuquerque,7.262,6.059,1.3435
+Almaty,9.282,9.333,7.309
+Anchorage,5.4335,3.141,3.4705
+Ankara,9.928,9.125,7.425
+Asheville,5.856,5.311,5.8525
+Asuncion,9.2265,9.295,6.9345
+Atlanta,4.9755,5.241,2.6725
+Auckland,4.72,4.47,7.0215
+Austin,4.3345,5.355,5.069
+Baku,9.745,9.806,8.772
+Baltimore,4.83,4.982,2.373
+Bangkok,7.3935,7.222,7.0365
+Beijing,6.173,8.101,7.066
+Beirut,6.6555,6.3,6.833
+Bengaluru,9.811,10,7.294
+Birmingham,6.5555,5.133,1.776
+Bogota,9.0275,9.08,6.222
+Boise,6.9635,6.578,4.3605
+Boston,1,4.259,7.742
+Boulder,3.704,4.531,7.0735
+Brisbane,5.212,5.177,7.9035
+Buenos Aires,8.812,7.764,6.0395
+Buffalo,7.0765,5.228,7.1885
+Cairo,10,10,6.791
+Calgary,6.495,5.418,7.923
+Cape Town,6.7635,7.955,5.328
+Caracas,4.9025,9.82,5.221
+Casablanca,8.822,9.088,6.7755
+Charleston,4.637,3.567,5.0555
+Charlotte,5.549,4.987,5.3475
+Chattanooga,6.782,6.121,4.468
+Chennai,10,10,7.837
+Chiang Mai,9.3725,8.495,8.4525
+Chicago,3.702,4.766,3.832
+Christchurch,6.934,5.096,7.585
+Cincinnati,6.6775,6.108,4.975
+Cleveland,7.156,5.595,3.637
+Colorado Springs,6.4995,5.375,5.3775
+Columbus,6.2895,5.746,5.2815
+Curitiba,9.4295,8.433,5.9465
+Dallas,5.259,6.091,4.339
+Dar es Salaam,7.652,8.026,6.1005
+Delhi,9.752,9.869,6.4185
+Denver,3.8375,5.102,5.371
+Des Moines,6.851,6.327,6.984
+Detroit,6.223,6.032,4.4615
+Doha,2.1315,6.183,9.486
+Dubai,2.591,5.49,9.172
+Edmonton,6.7295,5.522,7.1175
+Eugene,6.713,5.021,6.1715
+Florianopolis,9.0595,8.331,6.525
+Guadalajara,9.527,9.49,6.472
+Guatemala City,8.8125,8.175,6.139
+Halifax,6.895,4.943,7.1885
+Havana,9.089,7.608,8.6335
+Ho Chi Minh City,8.618,8.844,6.7675
+Hong Kong,1,4.967,9.3505
+Honolulu,2.3415,2.867,6.8565
+Houston,5.2245,6.162,3.129
+Hyderabad,10,10,8.1265
+Indianapolis,6.266,5.478,3.968
+Istanbul,9.1375,8.787,6.8935
+Jacksonville,6.45,5.359,3.8255
+Jakarta,8.671,8.471,7.0005
+Johannesburg,8.012,7.575,5.1655
+Kansas City,6.7075,5.844,4.4225
+Kathmandu,10,9.445,8.5055
+Kingston,8.8955,5.937,5.5275
+Knoxville,6.9755,6.447,5.1295
+Kuala Lumpur,8.6635,8.238,5.881
+Lagos,7.767,9.098,5.9995
+Las Vegas,7.001,5.759,2.385
+Lima,8.712,8.496,5.2905
+Los Angeles,1.5275,4.556,5.705
+Louisville,7.258,6.358,3.6175
+Madison,5.8295,6.173,7.362
+Manila,8.5955,8.752,6.4345
+Medellin,9.2315,9.315,7.477
+Melbourne,4.83,4.798,7.1325
+Memphis,7.1145,5.829,2.8585
+Mexico City,8.36,9.244,5.464
+Miami,3.031,4.497,4.321
+Milwaukee,6.1225,5.526,4.267
+Minneapolis-Saint Paul,4.7385,5.042,5.085
+Montevideo,8.183,6.197,5.9735
+Montreal,7.392,5.948,7.822
+Mumbai,8.124,9.825,7.6185
+Nairobi,8.8505,8.432,5.972
+Nashville,4.4545,5.742,5.078
+New Orleans,5.339,4.992,2.088
+New York,1,2.342,7.022
+Oklahoma City,7.261,6.394,4.6855
+Omaha,7.0405,5.994,5.552
+Orlando,5.7785,5.284,4.134
+Osaka,7.8315,4.819,10
+Ottawa,6.7005,6.027,8.4475
+Perth,5.233,4.795,7.1045
+Philadelphia,4.207,4.422,3.133
+Phnom Penh,8.552,8.001,6.684
+Phoenix,6.533,6.208,2.583
+Phuket,8.823,7.602,5.7285
+Pittsburgh,5.9635,4.795,4.791
+Portland,4.138,4.924,5.1805
+Porto Alegre,9.221,8.12,5.2955
+Quito,9.0165,7.822,6.969
+Raleigh,6.1285,5.61,6.5225
+Richmond,6.4395,5.949,3.3765
+Rio De Janeiro,8.32,7.751,5.2955
+Riyadh,8.6965,7.806,7.583
+Rochester,6.727,5.488,5.899
+Salt Lake City,6.141,6.172,5.657
+San Antonio,6.402,6.683,4.2165
+San Diego,2.9335,5.156,6.933
+San Francisco Bay Area,1,2.618,5.7155
+San Jose,8.1645,6.728,6.709
+San Juan,7.4275,5.98,5.121
+San Salvador,8.8015,7.743,5.4025
+Santiago,8.3815,7.237,6.9645
+Santo Domingo,9.289,8.076,5.779
+Sao Paulo,8.316,7.823,5.2955
+Saskatoon,7.1595,5.042,6.638
+Seattle,2.291,3.79,5.6365
+Seoul,6.1425,3.698,8.305
+Shanghai,5.744,7.179,7.2085
+Singapore,1.745,3.489,9.9715
+St. Louis,6.958,5.504,3.8805
+Sydney,1.9865,4.128,7.571
+Taipei,7.977,5.644,9.542
+Tampa Bay Area,5.696,5.253,4.7065
+Tehran,8.303,9.544,6.793
+Tel Aviv,4.91,4.37,8.0065
+Tokyo,5.657,3.431,10
+Toronto,4.66,5.271,7.6935
+Tunis,9.968,9.998,8.2915
+Vancouver,4.0805,5.259,7.5695
+Victoria,5.696,5.703,7.808
+Washington,1.2105,3.595,2.1915
+Wellington,5.1345,5.161,8.223
+Winnipeg,7.5525,5.882,6.0155
+Yerevan,9.6945,9.431,8.873
